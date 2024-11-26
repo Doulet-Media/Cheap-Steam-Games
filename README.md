@@ -36,7 +36,7 @@ We don't offer all Steam games, but most major titles are covered. If you're loo
 
 ## Contact Us  
 For inquiries or assistance, reach out to us:  
-- **GitHub Issues**: [Submit Here](https://github.com/Doulet-Media/Cheap-Steam-Games/issues/new)  
+- **GitHub Issues**: [Submit Here]([https://github.com/Doulet-Media/Cheap-Steam-Games/issues/new](https://github.com/Doulet-Media/Cheap-Steam-Games/issues/new?assignees=changcheng967%2C+DouletMedia&labels=&projects=&template=order-template.md&title=))  
 - **Email**: changcheng6541@gmail.com  
 - **Discord**: [Join Our Server](https://discord.gg/KwJUtfbTva)  
 
